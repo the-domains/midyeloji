@@ -1,0 +1,28 @@
+name: midyeloji
+favicon: null
+layout_spectrum: 0.018018985632807016
+typography_spectrum: 0.6973477320279926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07974918000400066
+  lightness: 0.9478935590013862
+  saturation: 0.500915362033993
+  rhythmicContrast: 0.4926234947051853
+purpose: []
